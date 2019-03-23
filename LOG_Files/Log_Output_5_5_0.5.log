@@ -1,0 +1,23 @@
+INFO 2019-03-24 04:07:48,490 - Logger Initiated
+INFO 2019-03-24 04:07:48,490 - Genotype Extraction from VCF file time consumed : 125.02570509910583 seconds
+INFO 2019-03-24 04:07:48,490 - Genotype data lines skipped : 20
+INFO 2019-03-24 04:07:48,490 - Importing all the necessary Packages
+INFO 2019-03-24 04:07:48,490 - Packages Imported with Specified Versions
+INFO 2019-03-24 04:07:48,490 - Pandas - 0.23.4 
+INFO 2019-03-24 04:07:48,490 - Scikit-Allel - 1.2.0 
+INFO 2019-03-24 04:07:48,490 - Seaborn - 0.9.0 
+INFO 2019-03-24 04:07:48,490 - Matplotlib - 3.0.0 
+INFO 2019-03-24 04:07:48,490 - Scikit-Learn - 0.20.0 
+INFO 2019-03-24 04:07:48,490 - UMAP - 0.3.7 
+INFO 2019-03-24 04:07:48,490 - Numpy - 1.15.2 
+INFO 2019-03-24 04:07:48,490 - Python - 3.6.6  
+INFO 2019-03-24 04:07:48,490 - IMPORT COMPLETED
+INFO 2019-03-24 04:07:48,490 - Extraction Completed with data size 43432 rows
+INFO 2019-03-24 04:07:48,490 - Scaling Data using Standard Scaler
+INFO 2019-03-24 04:07:52,541 - Data Scaled, Dimensionality Reduction using Principal Component Analysis
+INFO 2019-03-24 04:08:00,773 - Reduced Dimension with PCA and random state 0 and n_components : 5
+INFO 2019-03-24 04:08:00,773 - Initilaizing UMAP with neighbors :5, distance :0.5 and Euclidean metric
+INFO 2019-03-24 04:08:06,522 - Pre-Processing and Connecting Data from Poulations and Panel files for Plots
+INFO 2019-03-24 04:08:11,859 - Data Processed, Initiating Plot
+INFO 2019-03-24 04:08:12,530 - Plot file saved as : Image_5_5_0.5.pdf
+INFO 2019-03-24 04:08:12,530 -  TOTAL RUN TIME of Code : 149.06587076187134 seconds
