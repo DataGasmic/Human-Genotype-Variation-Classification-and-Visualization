@@ -6,4 +6,4 @@ The Repository has 3 folders each containing LOG_Files , Images and Reduced 2D c
 
 The below image displays the fact that Genotype Variations can be linked to Human Evolution and Genetic Variation can be classified by origin.
 
-![alt Image](https://github.com/DataGasmic/Human-Genotype-Visualization-GSoC-19-CCCG/blob/master/2D-Image-Plots/Image_25_15_0.5.pdf)
+![Image](https://github.com/DataGasmic/Human-Genotype-Visualization-GSoC-19-CCCG/blob/master/2D-Image-Plots/Image_25_15_0.5.pdf)
